@@ -28,4 +28,4 @@ This extension requires permissions to access and modify web requests specifical
 Use this extension responsibly and adhere to YouTube's terms of service.
 
 ## Issues and Contributions
-Feel free to report any issues or contribute to the development of this extension by creating pull requests or issues on the [GitHub repository](https://github.com/yourusername/your-extension-repo).
+Feel free to report any issues or contribute to the development of this extension by creating pull requests or issues on the [eport a Bug ](https://github.com/samyak2403/U4Bloker/issues).
