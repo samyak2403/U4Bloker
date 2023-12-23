@@ -1,29 +1,31 @@
-# U4Bloker Extension
+# U4Bloker: YouTube Ads Blocker Extension
 
 ## Description
-U4Bloker is a Google Chrome extension designed to block ads on webpages, enhancing the browsing experience by reducing unwanted advertisements.
-
-## Developer
-Developed by: [Samyak2403](https://github.com/samyak2403)
+U4Bloker is a specialized Google Chrome extension tailored to block ads on YouTube, providing an uninterrupted viewing experience. Developed by Samyak2403, this extension efficiently blocks intrusive ads during YouTube playback, ensuring a seamless and distraction-free video-watching session.
 
 ## Version
 Current Version: 1.0.1
 
-### Installation Instructions
-- Download or clone the repository.
-- Go to `chrome://extensions/` in Google Chrome.
-- Enable Developer mode.
-- Click on "Load unpacked" and select the extension folder.
+## Features
+- **YouTube Ad Blocking:** Specifically targets and eliminates ads during YouTube videos.
+- **Enhanced Browsing:** Enjoy uninterrupted video streaming without ad interruptions.
+- **Efficient Blocking:** Seamlessly blocks known ad domains on YouTube for a smoother experience.
 
-### Usage
-- Once installed, the extension will automatically block known ad domains.
-- Toggle the ad blocking functionality using the extension's popup interface.
+## Installation Instructions
+1. Download or clone the repository.
+2. Go to `chrome://extensions/` in Google Chrome.
+3. Enable Developer mode.
+4. Click on "Load unpacked" and select the extension folder.
 
-### Permissions
-- This extension requires permissions to access and modify web requests for ad blocking.
+## Usage
+- Once installed, the extension will automatically block YouTube ads during video playback.
+- Toggle the ad-blocking functionality using the extension's popup interface.
 
-### Disclaimer
-- This extension is provided as-is. Use it responsibly and respect website policies and terms of service.
+## Permissions
+This extension requires permissions to access and modify web requests specifically on YouTube for ad blocking.
+
+## Disclaimer
+Use this extension responsibly and adhere to YouTube's terms of service.
 
 ## Issues and Contributions
 Feel free to report any issues or contribute to the development of this extension by creating pull requests or issues on the [GitHub repository](https://github.com/yourusername/your-extension-repo).
